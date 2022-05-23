@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 ![Full Map](https://cdn.discordapp.com/attachments/978338836662878218/978339019731636264/Full_Map_v099.png)
 
-![The Volcano](/../main/assets/images/The Volcano.png)
+![The Volcano](https://cdn.discordapp.com/attachments/978338836662878218/978339519197749298/The_Volcano.png)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
