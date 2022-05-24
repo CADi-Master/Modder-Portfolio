@@ -34,9 +34,9 @@ Note: Right-click on any image and open it in a new browser tab to see at full r
 ### Contact Info / Other Sites
 
 - Email: asdf
-- Reddit: CADi_Master
-- Discord: CADi_Master #8556
-- Twitter: @CADi_Master_1989
+- Reddit: [CADi_Master](https://www.reddit.com/user/CADi_Master)
+- Discord: [CADi_Master#8556](https://discordapp.com/users/CADi_Master#8556)
+- Twitter: [@CADi_Master_1989](https://twitter.com/CADi_Master_89)
 - YouTube: [CADi Master](https://www.youtube.com/channel/UCxDTqlOj0VGl_QzBw34EtQg)
 
 FYI - My username is pronounced cad-eye, like Jedi.
