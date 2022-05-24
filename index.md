@@ -1,6 +1,10 @@
 # CADi Master - UGC Creator
 
-Welcome to the portfolio of custom games & maps for Age of Empires 2: Definitive Edition made by CADi Master!
+Welcome to my portfolio!
+
+I make custom games & maps for Age of Empires 2: Definitive Edition!
+
+My projects are listed below.
 
 Note: Right-click on any image and open it in a new browser tab to see at full resolution.
 
@@ -27,10 +31,12 @@ Note: Right-click on any image and open it in a new browser tab to see at full r
 ![Full Map](https://cdn.discordapp.com/attachments/978338836662878218/978339019731636264/Full_Map_v099.png)
 
 
-### Contact Info
+### Contact Info / Other Sites
 
 - Email: asdf
 - Reddit: CADi_Master
 - Discord: CADi_Master #8556
+- Twitter: @CADi_Master_1989
+- YouTube: [CADi Master](https://www.youtube.com/channel/UCxDTqlOj0VGl_QzBw34EtQg)
 
 FYI - My username is pronounced cad-eye, like Jedi.
