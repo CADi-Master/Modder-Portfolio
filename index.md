@@ -34,7 +34,7 @@ Note: Right-click on any image and open it in a new browser tab to see at full r
   - This will be an additional Modder Map that gives working examples of all trigger conditions and effects. Coming soon!
 - Plane of Elemental Chaos
   - This will be an AoE2 random map script based on the Terrain Blending map listed above.
-- Team vs Team RTS Game (Working title: Icehouse)
+- Team vs Team RTS Game (Working title: Wargame Theory - Powerlust)
   - This will be a unique team vs. team custom map based on the popular chess variant called bughouse. I'm planning to make this as a mod for Frost Giant's upcoming RTS game and incorporate some of the mechanics from Wargame Theory - Blood Sacrifice (1v1 mode).
 
 
