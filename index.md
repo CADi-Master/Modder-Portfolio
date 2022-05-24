@@ -1,9 +1,15 @@
 # CADi Master - Modder Portfolio
 
-This is the public portfolio of game mods for creator CADi Master.
+Welcome to the portfolio of custom games & maps for Age of Empires 2: Definitive Edition made by UGC creator CADi Master!
+
+Note: Right-click on any image and open it in a new browser tab to see at full resolution.
 
 
-## Age of Empires 2: Definitive Edition Mods
+### Wargame Theory - Blood Sacrifice (1v1 mode)
+
+![Full Map](https://cdn.discordapp.com/attachments/978338836662878218/978339019731636264/Full_Map_v099.png)
+
+![The Volcano](https://cdn.discordapp.com/attachments/978338836662878218/978342084773806109/The_Volcano.jpg)
 
 
 ### Modder Map - Terrain Blending (6,400 Combinations)
@@ -16,13 +22,6 @@ This is the public portfolio of game mods for creator CADi Master.
 ![Full Map](https://cdn.discordapp.com/attachments/978338836662878218/978339019731636264/Full_Map_v099.png)
 
 
-### Wargame Theory - Blood Sacrifice (1v1 mode)
-
-![Full Map](https://cdn.discordapp.com/attachments/978338836662878218/978339019731636264/Full_Map_v099.png)
-
-![The Volcano](https://cdn.discordapp.com/attachments/978338836662878218/978342084773806109/The_Volcano.jpg)
-
-
 ### Conway's Game of Life
 
 ![Full Map](https://cdn.discordapp.com/attachments/978338836662878218/978339019731636264/Full_Map_v099.png)
@@ -30,4 +29,6 @@ This is the public portfolio of game mods for creator CADi Master.
 
 ### Contact Info
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Email: asdf
+- Reddit: CADi_Master
+- Discord: CADi_Master #8556
