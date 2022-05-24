@@ -26,11 +26,27 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+### Modder Map - Terrain Blending (6,400 Combinations)
+
+![Full Map](https://cdn.discordapp.com/attachments/978338836662878218/978339019731636264/Full_Map_v099.png)
+
+
+### Modder Map - All Units and Objects in AoE2
+
+![Full Map](https://cdn.discordapp.com/attachments/978338836662878218/978339019731636264/Full_Map_v099.png)
+
+
+### Wargame Theory - Blood Sacrifice (1v1 mode)
+
 ![Full Map](https://cdn.discordapp.com/attachments/978338836662878218/978339019731636264/Full_Map_v099.png)
 
 ![The Volcano](https://cdn.discordapp.com/attachments/978338836662878218/978342084773806109/The_Volcano.jpg)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+### Conway's Game of Life
+
+![Full Map](https://cdn.discordapp.com/attachments/978338836662878218/978339019731636264/Full_Map_v099.png)
+
 
 ### Jekyll Themes
 
