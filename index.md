@@ -33,7 +33,7 @@ Note: Right-click on any image and open it in a new browser tab to see at full r
 
 ### Contact Info / Other Sites
 
-- Email: asdf
+- Email: Please reach out to me at one of the below sites first, then I'll be happy to give you my email address.
 - Reddit: [CADi_Master](https://www.reddit.com/user/CADi_Master)
 - Discord: [CADi_Master#8556](https://discordapp.com/users/CADi_Master#8556)
 - Twitter: [@CADi_Master_1989](https://twitter.com/CADi_Master_89)
